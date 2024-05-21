@@ -7,3 +7,5 @@
 
 •	Applied JavaScript concepts to 12 real-world projects, covering forms, DOM manipulation, and loops.
 
+
+<a href="https://ibb.co/w7SsgvR"><img src="https://i.ibb.co/428dtQ7/Basics-of-Java-Script-Codecademy-Certificate.jpg" alt="Basics-of-Java-Script-Codecademy-Certificate"  ></a>
